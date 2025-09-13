@@ -27,5 +27,4 @@ This repository contains supplementary R scripts for the article
 - The code is provided as supplementary material to ensure reproducibility of the analysis described in the manuscript.
 
 ## Citation
-If you use these scripts, please cite the article:  
-[DOI or "manuscript in submission"]
+If you use these scripts, please cite the article
