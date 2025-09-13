@@ -3,7 +3,8 @@ Homoacetogenic Clostridium magnum WY-4 as a novel bio-stabilizing agent in anaer
 
 # Supplementary R scripts for WY-4 study
 
-This repository contains supplementary R scripts for the article  
+This repository contains supplementary R scripts for the article:
+
 Homoacetogenic *Clostridium magnum* WY-4 as a novel bio-stabilizing agent in anaerobic digestion: enhanced methane yield and metabolic modulation.
 
 ## Scripts
